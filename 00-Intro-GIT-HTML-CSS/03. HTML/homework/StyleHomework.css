@@ -13,12 +13,12 @@ img{
 #thirdDiv{
     position: relative;
     left: 540px;
-    right: auto
+    right: auto;
     height: 750px;
     width: 500px;
-    background-color:beige;
-    padding : 50px;
-    border: 2px solid ; color:black ;
+    padding: 50px;
+    border: 2px solid ; color:black;
+    background-color: bisque;
 }
 #spanId{
     font-size:18px;
@@ -28,9 +28,5 @@ img{
 .divClass{
     text-align: center;
 }
-.contenedor{
-    width: 1920px;
-    weight: 1080px;
-    background-color: rgb(218, 208, 152);
-}
+
 
