@@ -4,9 +4,14 @@ body {
 
 p {
   color: blue;
-  font-size: 30px;
+  font-size: 50px;
 }
 
 .amarillo {
-  
+color:aquamarine
+}
+
+span{
+  font-size: 50px;
+  color:red
 }
